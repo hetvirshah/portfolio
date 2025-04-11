@@ -74,3 +74,8 @@ A dev who fell in love with coding and never looked back. From hacking out side 
  Live on Play Store, optimized for performance
 
 ---
+## Let's Connect
+
+Whether you're looking to collaborate, have an idea to build, or just want to say hi — I’d love to hear from you!
+
+ **Email me directly:** [hetvis06@gmail.com](mailto:hetvis06@gmail.com)
