@@ -72,6 +72,7 @@ A dev who fell in love with coding and never looked back. From hacking out side 
  Text to speech with diffrent accents and speed. 
  Live on Play Store, optimized for performance
 
+ 
 ---
 ## Let's Connect
 
