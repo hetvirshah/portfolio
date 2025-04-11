@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Hetvi | Flutter Developer
+title: Hetvi | Developer
 ---
 
 # Hi, I'm Hetvi
 
-**Flutter Developer** | 🎨 UI/UX Enthusiast | 📚 Storytelling Coder  
+**Developer** | 🎨 UI/UX Enthusiast | 📚 Storytelling Coder  
 *I build clean, intuitive mobile apps that bring ideas to life — from concept to code.*
 
 ##  Tech Stack
@@ -44,33 +44,33 @@ A dev who fell in love with coding and never looked back. From hacking out side 
 
 ---
 
-## 📱 Projects
+## Projects
 
 ### 📍 [Khedma IQ](https://play.google.com/store/apps/details?id=com.khedma.iq&hl=en_IN)
 
 **A service booking app tailored for Iraq**  
-🔧 Flutter + Firebase  
-✔️ Login/authentication, smooth UI, booking flow, service provider management  
-🚀 Live on Google Play  
-📊 Scalable and real-time interaction focused
+ Flutter + REST APIs + Firebase  
+ Login/authentication, smooth UI, booking flow, service provider management  
+ Live on Google Play  
+ Scalable and real-time interaction focused
 
 ---
 
-### 🎓 [GEIP EdTech](https://play.google.com/store/apps/details?id=com.geip.edtech&hl=es_419)
+### 🎓 [GEIP EdTech](https://play.google.com/store/apps/details?id=com.geip.edtech&hl=en IN)
 
 **An educational platform with video modules, quizzes, and intuitive navigation**  
-🔧 Flutter + REST APIs  
-👥 Multi-role flows (admin, instructor, student)  
-🧪 Integrated assessments and interactive features  
-🚀 Live and actively used by students
+ Flutter + REST APIs  
+ Integrated assessments and interactive features  
+ Live and actively used by students
 
 ---
 
 ### 📰 [News Cognoscent](https://play.google.com/store/apps/details?id=com.news.cognoscent&hl=en_IN)
 
 **A minimal, curated news reader**  
-🔧 Flutter + Firebase  
-🧠 Personalized feeds, filters, smooth transitions, and modern design  
-🚀 Live on Play Store, optimized for performance
+ Flutter + REST APIs
+ Personalized feeds, filters, smooth transitions, and modern design 
+ Text to speech with diffrent accents and speed. 
+ Live on Play Store, optimized for performance
 
 ---
