@@ -14,13 +14,11 @@ Flutter • Dart • Firebase • REST APIs • Git • Provider • Blocs • H
 
 ---
 
-##  My Developer Story
-
 A dev who fell in love with coding and never looked back. From hacking out side projects at midnight to deploying live apps used by thousands — my journey is powered by coffee and curiosity.
 
 ---
 
-##  My Developer Journey
+##  My Dev Journey
 
 ### 2022 — Foundations
 - Cloned popular apps to understand UI/UX
