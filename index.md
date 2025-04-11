@@ -5,7 +5,7 @@ title: Hetvi | Developer
 
 # Hi, I'm Hetvi
 
-**Developer** | 🎨 UI/UX Enthusiast | 📚 Storytelling Coder  
+**Developer** |  UI/UX Enthusiast |  Storytelling Coder  
 *I build clean, intuitive mobile apps that bring ideas to life — from concept to code.*
 
 ##  Tech Stack
@@ -60,6 +60,7 @@ A dev who fell in love with coding and never looked back. From hacking out side 
  Flutter + REST APIs  
  Integrated assessments and interactive features  
  Live and actively used by students
+ Single player and Multiplayer quizzes
 
 ---
 
